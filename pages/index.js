@@ -1,8 +1,14 @@
-
+import Head from "next/head"
 
 export default () => (
 
+
   <div className="hero bg-gray-900 h-3">
+    <Head>
+      <title>Alex Cosmas: Product Designer & Software Developer</title>
+      <link rel="icon" href="/favicon.ico" />
+    </Head>
+
     <div class="py-1 bg-primary"></div>
     <div class="container mx-auto px-4 md:px-32">
       <div class="flex mt-8 space-y-5 justify-between">
