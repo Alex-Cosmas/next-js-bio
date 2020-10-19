@@ -56,14 +56,14 @@ export default () => (
           </div>
           <div class=" p-4">
             <div class="flex items-center">
-              <h3 class="text-lg font-semibold text-gray-800">Enterprise TMS</h3>
+              <h3 class="text-lg font-semibold text-gray-800">Safety Administrate</h3>
 
               <img class="text-red-200 ml-auto opacity-0 transform duration-200 group-hover:opacity-100 h-3"
                 src="/" />
 
 
             </div>
-            <div class="mt-3 text-sm text-gray-700">HS Administrate is an API based enterprise training
+            <div class="mt-3 text-sm text-gray-700">Safety Administrate is an API based enterprise training
             management web application manages delegate bookings and automates checkouts, invoices and receipts </div>
             <div class="mt-2">
               <span
