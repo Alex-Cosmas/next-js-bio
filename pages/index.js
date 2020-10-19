@@ -58,8 +58,7 @@ export default () => (
 
             </div>
             <div class="mt-3 text-sm text-gray-700">HS Administrate is an API based enterprise training
-            management web application manages delegate bookings and automates checkouts, invoices and
-                        receipts </div>
+            management web application manages delegate bookings and automates checkouts, invoices and receipts </div>
             <div class="mt-2">
               <span
                 class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">React</span>
@@ -85,16 +84,15 @@ export default () => (
           </div>
           <div class=" p-4">
             <div class="flex items-center">
-              <h3 class="text-lg font-semibold text-gray-800">Enterprise TMS</h3>
+              <h3 class="text-lg font-semibold text-gray-800">Kiota</h3>
 
               <img class="text-red-200 ml-auto opacity-0 transform duration-200 group-hover:opacity-100 h-3"
                 src="/" />
 
 
             </div>
-            <div class="mt-3 text-sm text-gray-700">HS Administrate is an API based enterprise training
-            management web application manages delegate bookings and automates checkouts, invoices and
-                        receipts </div>
+            <div class="mt-3 text-sm text-gray-700">Kiota is a multi-tenant application that allows
+                        users to manage receipts and invoices from one dashboard without switching accounts.</div>
             <div class="mt-2">
               <span
                 class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">React</span>
@@ -120,19 +118,20 @@ export default () => (
           </div>
           <div class=" p-4">
             <div class="flex items-center">
-              <h3 class="text-lg font-semibold text-gray-800">Enterprise TMS</h3>
+              <h3 class="text-lg font-semibold text-gray-800">Mtaani Online</h3>
 
               <img class="text-red-200 ml-auto opacity-0 transform duration-200 group-hover:opacity-100 h-3"
                 src="/" />
 
 
             </div>
-            <div class="mt-3 text-sm text-gray-700">HS Administrate is an API based enterprise training
-            management web application manages delegate bookings and automates checkouts, invoices and
-                        receipts </div>
+            <div class="mt-3 text-sm text-gray-700">Mtaani Online is an niched advertising platform built to
+            focus on individuals and small business within the same locale helping them promote their
+                        products and services.</div>
             <div class="mt-2">
               <span
-                class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">React</span>
+                class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">React
+              </span>
 
             </div>
           </div>
@@ -146,7 +145,12 @@ export default () => (
 
         <div class="text-base text-gray-900 w-3/5">
           <h2 class="font-bold text-2xl mt-8 mb-3">Contact</h2>
-                If you are interested in working with me just drop me a short mail at: <span><b>cosmasalex365@gmail.com</b></span>
+          If you are interested in working with me, just drop me a short mail at:
+              <a href="mailto:cosmasalex@gmail.com">
+            <span>
+              <b>cosmasalex365@gmail.com</b>
+            </span>
+          </a>
 
         </div>
         <div class="text-base text-gray-900 w-2/5">
