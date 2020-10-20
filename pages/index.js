@@ -23,8 +23,7 @@ export default () => (
                 </p>
 
           <p class="text-gray-600 mb-3 font-medium">
-            My tools of trade are Figma prototyping, TailwindCSS for styling and preferred stack
-                    <strong>Rails/Javascript</strong> (NuxtJs/NextJs for the front-end).
+            As a self taught designer and developer, my tools of trade include Figma for prototyping, TailwindCSS for styling and most preferred stack for development are <strong>Rails/Javascript</strong> (NuxtJs/NextJs for the front-end).
                 </p>
 
 
