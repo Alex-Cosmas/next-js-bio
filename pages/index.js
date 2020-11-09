@@ -15,23 +15,24 @@ export default () => (
         <div class="w-full md:w-3/5">
           <h1 class="font-bold text-2xl">Hello! My name is Alex Cosmas</h1>
           <p class="text-gray-600 mb-3 font-medium">
-            I am versatile Rails/React Fullstack Developer. I design, develop and manage products and projects. 
+            I am versatile Rails/React Fullstack Developer. I design, develop and manage products and projects.
           </p>
 
           <p class="text-gray-600 mb-3 font-medium">
-            I graduated with a degree in Business and Information Technology training focusing on Project Management and Business Design. I was responsible for a couple of inhouse projects which constantly had bad code. After several frustrations, I took up the challenge of building software & taught myself; <strong>design</strong>, <strong>software architecture</strong> & <strong>engineering</strong>, aiming to writing clean, quality & maintainable code. Its now heading to my 4th year and I havent looked back from the decision.
+            My experience has been in Project Management and Business Design after graduation. I was responsible of leading internal projects and I quickly realized the bottle necks were with the quality of code written. After several frustrations with the developers, I took up the challenge of building software & taught myself; <strong>design</strong>, <strong>software architecture</strong> & <strong>engineering</strong>, aiming to writing clean, quality & maintainable code. Its now heading to my 4th year and I havent looked back from the decision.
+
           </p>
 
           <p class="text-gray-600 mb-3 font-medium">
-            I really enjoy what I do because I get to assist innovators, startup’s and businesses with reducing risk and guess work with their ideas, products, services through design thinking, product design, prototyping and building quality software.    
+            I really enjoy what I do because I get to assist innovators, startup’s and businesses with reducing risk and guess work with their ideas, products, services through design thinking, product design, prototyping and building quality software.
           </p>
 
           <p class="text-gray-600 mb-3 font-medium">
-          My day to day stack includes Figma for prototyping, TailwindCSS for styling and most preferred stack for development are Ruby/Rails/Javascript-ReactJs/VueJs. 
+            My day to day stack includes Figma for prototyping, TailwindCSS for styling and most preferred stack for development are Ruby/Rails/Javascript-ReactJs/VueJs.
 
           </p>
 
-          
+
 
 
         </div>
