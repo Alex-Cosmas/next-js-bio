@@ -15,16 +15,23 @@ export default () => (
         <div class="w-full md:w-3/5">
           <h1 class="font-bold text-2xl">Hello! My name is Alex Cosmas</h1>
           <p class="text-gray-600 mb-3 font-medium">
-            A versatile product designer with the ability to jump into code.</p>
+            I am versatile Rails/React Fullstack Developer. I design, develop and manage products and projects. 
+          </p>
 
           <p class="text-gray-600 mb-3 font-medium">
-            I assist innovators, startup’s and businesses with reducing risk and guess work with their ideas,
-            products, services through design thinking, product design, prototyping and software development.
-                </p>
+            I graduated with a degree in Business and Information Technology training focusing on Project Management and Business Design. I was responsible for a couple of inhouse projects which constantly had bad code. After several frustrations, I took up the challenge of building software & taught myself; <strong>design</strong>, <strong>software architecture</strong> & <strong>engineering</strong>, aiming to writing clean, quality & maintainable code. Its now heading to my 4th year and I havent looked back from the decision.
+          </p>
 
           <p class="text-gray-600 mb-3 font-medium">
-            As a self taught designer and developer, my tools of trade include Figma for prototyping, TailwindCSS for styling and most preferred stack for development are <strong>Rails/Javascript</strong> (NuxtJs/NextJs for the front-end).
-                </p>
+            I really enjoy what I do because I get to assist innovators, startup’s and businesses with reducing risk and guess work with their ideas, products, services through design thinking, product design, prototyping and building quality software.    
+          </p>
+
+          <p class="text-gray-600 mb-3 font-medium">
+          My day to day stack includes Figma for prototyping, TailwindCSS for styling and most preferred stack for development are Ruby/Rails/Javascript-ReactJs/VueJs. 
+
+          </p>
+
+          
 
 
         </div>
@@ -66,7 +73,7 @@ export default () => (
             management web application manages delegate bookings and automates checkouts, invoices and receipts </div>
             <div class="mt-2">
               <span
-                class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">React</span>
+                class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">Case Study</span>
 
             </div>
           </div>
@@ -100,7 +107,7 @@ export default () => (
                         users to manage receipts and invoices from one dashboard without switching accounts.</div>
             <div class="mt-2">
               <span
-                class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">React</span>
+                class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">Ongoing Project</span>
 
             </div>
           </div>
@@ -135,8 +142,7 @@ export default () => (
                         products and services.</div>
             <div class="mt-2">
               <span
-                class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">React
-              </span>
+                class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium leading-4 bg-gray-100 text-gray-800 mr-2">Ongoing Project</span>
 
             </div>
           </div>
