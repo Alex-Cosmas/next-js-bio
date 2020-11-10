@@ -5,7 +5,7 @@ export default () => (
 
   <div className="hero bg-gray-900 h-3">
     <Head>
-      <title>Alex Cosmas: Product Designer & Software Developer</title>
+      <title>Alex Cosmas: Product Designer + Full Stack Web Developer</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
