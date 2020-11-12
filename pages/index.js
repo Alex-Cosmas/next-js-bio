@@ -4,6 +4,7 @@ export default () => (
 
 
   <div className="hero bg-gray-900 h-3">
+
     <Head>
       <title>Alex Cosmas: Product Designer + Full Stack Web Developer</title>
       <link rel="icon" href="/favicon.ico" />
@@ -14,23 +15,23 @@ export default () => (
       <div class="flex mt-8 space-y-5 justify-between">
         <div class="w-full md:w-3/5">
           <h1 class="font-bold text-2xl">Hello! My name is Alex Cosmas</h1>
-          <p class="text-gray-600 mb-3 font-medium">
+          <p class="text-gray-600 mb-3 text-sm">
             I am versatile Rails/React Fullstack Developer. I design, develop and manage products and projects.
           </p>
 
-          <p class="text-gray-600 mb-3 font-medium">
+          <p class="text-gray-600 mb-3 text-sm">
             My experience has been in Project Management and Business Design.
           </p>
 
-          <p class="text-gray-600 mb-3 font-medium">
+          <p class="text-gray-600 mb-3 text-sm">
             I got into writing code after several frustrations leading my team. We kept missing deadlines mainly due to the quality of code and structure. This often resulted into several break down and I took up the challenge to teach myself writing quality code and learning software architecture to address the challenges I faced myself.
           </p>
 
-          <p class="text-gray-600 mb-3 font-medium">
+          <p class="text-gray-600 mb-3 text-sm">
             It's now heading into 3+ years and I enjoy what I do because I get to learn and challenge myself. I also get an opportunity to assist innovators startup’s and businesses with reducing risk and guess work with their ideas, products, services through design thinking, product design, prototyping and building quality software.
           </p>
 
-          <p class="text-gray-600 mb-3 font-medium">
+          <p class="text-gray-600 mb-3 text-sm">
             My day-to-day stack includes Figma for prototyping, TailwindCSS for styling and most preferred stack for development are Ruby/Rails/Javascript-ReactJs/VueJs.
 
           </p>
@@ -164,8 +165,10 @@ export default () => (
 
         <div class="text-base text-gray-900 w-3/5">
           <h2 class="font-bold text-2xl mt-8 mb-3">Contact</h2>
-          If you are interested in working with me, just drop me a short mail at:
-              <a href="mailto:cosmasalex@gmail.com">
+          <p className="font-sm text-gray-700">
+            If you are interested in working with me, just drop me a short mail at:
+          </p>
+          <a href="mailto:cosmasalex@gmail.com">
             <span>
               <b>cosmasalex365@gmail.com</b>
             </span>
