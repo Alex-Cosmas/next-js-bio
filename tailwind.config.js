@@ -5,7 +5,11 @@ module.exports = {
   },
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: { 
+	      'body': ['JetBrains Mono', 'monospace'],
+	    }
+    },
   },
   variants: {},
   plugins: [],

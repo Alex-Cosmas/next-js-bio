@@ -1,9 +1,8 @@
 import Head from "next/head"
 
-export default () => (
+const Home = () => (
 
-
-  <div className="hero bg-gray-900 h-3">
+    <div className="font-body hero bg-gray-900 h-3">
 
     <Head>
       <title>Alex Cosmas: Product Designer + Full Stack Web Developer</title>
@@ -17,7 +16,7 @@ export default () => (
           <h1 className="font-bold text-2xl my-5">Hello! My name is Alex Cosmas</h1>
 
          
-          <div className="text-gray-600 mb-3 text-sm">
+          <div className="text-gray-600 mb-3 text-base">
            I am product designer/frontend developer based born and raised in Nairobi, Kenya. I am a curious soul who loves to think, research and solve problems through design and code. 
 
           </div>
@@ -26,7 +25,7 @@ export default () => (
             Where am I currently working? 
           </h1>
 
-          <div className="text-gray-600 mb-3 text-sm">
+          <div className="text-gray-600 mb-3 text-base">
             I am at Sokoplace Group as a contracted consultant refactoring the exising designs and building internal tools. I as well manage my own Consultancy WabiSabi Technologies.
           </div>
 
@@ -34,31 +33,31 @@ export default () => (
            Skills & Tools
           </h1>
 
-          <div className="text-gray-600 mb-3 text-sm">
+          <div className="text-gray-600 mb-3 text-base">
             My day to day tools and languages includes: 
               
               <strong>
-                <span>Old Fashioned Pen and Paper(Occasionally Sticky Notes & Whiteboard), </span>
+                <span> Old Fashioned Pen and Paper(Occasionally Sticky Notes & Whiteboard), </span>
               </strong>
 
               <strong>
-                <span>InVision,</span>
+                <span>InVision, </span>
               </strong>
 
               <strong>
-                <span>Whimiscal,</span>
+                <span>Whimiscal, </span>
               </strong>
 
               <strong>
-                <span>Illustrator,</span>
+                <span>Illustrator, </span>
               </strong>
 
               <strong>
-                <span>Figma,</span>
+                <span>Figma, </span>
               </strong>
 
               <strong>
-                <span>Git</span>
+                <span>Git, </span>
               </strong>
 
                <strong>
@@ -72,11 +71,11 @@ export default () => (
            Skills & Tools
           </h1>
 
-          <div className="text-gray-600 mb-3 text-sm">
+          <div className="text-gray-600 mb-3 text-base">
           
            Languages & Technologies: 
              <strong>
-                <span>Nuxt / React / NextJS, TailwindCSS, Apollo, GraphQL</span>
+                <span> Nuxt / React / NextJS, TailwindCSS, Apollo, GraphQL</span>
               </strong>
 
           </div>
@@ -85,7 +84,7 @@ export default () => (
            Deployment
           </h1>
 
-          <div className="text-gray-600 mb-3 text-sm">
+          <div className="text-gray-600 mb-3 text-base">
            I have experience working with Docker, Heroku, Digital Ocean. Currently, I am working with Vercel/Netlify and on occasion I switch back. 
           </div>
 
@@ -93,11 +92,11 @@ export default () => (
            Novice
           </h1>
 
-          <div className="text-gray-600 mb-3 text-sm">
+          <div className="text-gray-600 mb-3 text-base">
           Currently experimenting on Typescript, Ruby on Rails and Elixir/Phoenix/Live view. 
           </div>
 
-          <p className="text-gray-600 mb-3 text-sm">
+          <p className="text-gray-600 mb-3 text-base">
             You can reach me through the contacts below. <strong>I am open to new opportunities. </strong>
           </p>
 
@@ -136,7 +135,7 @@ export default () => (
 
 
             </div>
-            <div className="mt-3 text-sm text-gray-700">Safety Administrate is an API based enterprise training
+            <div className="mt-3 text-base text-gray-700">Safety Administrate is an API based enterprise training
             management web application manages delegate bookings and automates checkouts, invoices and receipts </div>
             <div className="mt-2">
               <span
@@ -170,7 +169,7 @@ export default () => (
 
 
             </div>
-            <div className="mt-3 text-sm text-gray-700">Kiota is a multi-tenant application that allows
+            <div className="mt-3 text-base text-gray-700">Kiota is a multi-tenant application that allows
                         users to manage receipts and invoices from one dashboard without switching accounts.</div>
             <div className="mt-2">
               <span
@@ -204,7 +203,7 @@ export default () => (
 
 
             </div>
-            <div className="mt-3 text-sm text-gray-700">Mtaani Online is an niched advertising platform built to
+            <div className="mt-3 text-base text-gray-700">Mtaani Online is an niched advertising platform built to
             focus on individuals and small business within the same locale helping them promote their
                         products and services.</div>
             <div className="mt-2">
@@ -221,16 +220,16 @@ export default () => (
 
       <div className="flex flex-col md:flex-row mt-10">
 
-        <div className="text-base text-gray-900 w-3/5">
+        <div className="text-base text-gray-700 w-3/5">
           <h2 className="font-bold text-2xl mt-8 mb-3">Contact</h2>
-          <p classNameName="font-sm text-gray-700">
-            If you are interested in working with me, just drop me a short mail at:
-          </p>
-          <a href="mailto:cosmasalex@gmail.com">
+          <p classNameName="font-sm ">
+            If you are interested in working with me, just drop me a short mail at: <a href="mailto:cosmasalex@gmail.com">
             <span>
               <b>cosmasalex365@gmail.com</b>
             </span>
           </a>
+          </p>
+          
 
         </div>
         <div className="text-base text-gray-900 w-2/5">
@@ -256,8 +255,6 @@ export default () => (
   </div>
 
 
+  )
 
-
-
-
-);
+export default Home
