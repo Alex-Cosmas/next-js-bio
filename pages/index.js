@@ -19,10 +19,9 @@ const Home = () => (
           </h1>
 
           <div className='text-gray-600 mb-3 text-base'>
-            I am fullstack designer based born and raised in Nairobi, Kenya. I
-            posses a verstile set of skills in UX , product designer and
-            frontend development and loves to think, research and solve problems
-            through design and code.
+            I am fullstack designer based born and raised in Nairobi, Kenya who
+            has a verstile set of skills in UX , product design and frontend. I
+            love to think, research and solve problems through design and code.
           </div>
 
           <h1 className='text-gray-600 mb-3 font-medium'>
